@@ -1,13 +1,4 @@
-@font-face {
-	font-family: 'QuicksandBook';
-	src: url('http://www.htmlandcssbook.com/code-samples/chapter-15/fonts/Quicksand_Book-webfont.eot');
-	src: url('http://www.htmlandcssbook.com/code-samples/chapter-15/fonts/Quicksand_Book-webfont.eot?#iefix') format('embedded-opetntype'),
-	url('http://www.htmlandcssbook.com/code-samples/chapter-15/fonts/Quicksand-Book-webfont.woff') format('woff'),
-    
-    url('http://www.htmlandcssbook.com/code-samples/chapter-15/fonts/Quicksand_Book-webfont.ttf') format('truetype'),
-	url('http://www.htmlandcssbook.com/code-samples/chapter-15/fonts/Quicksand_Book-webfont.svg#QuicksandBook') format('svg');
-font-weight: normal;
-    font-style: normal;}
+
 
 body {
 	color: #ffffff;
